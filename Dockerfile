@@ -7,6 +7,7 @@ RUN apt-get update && apt-get -y install php5-fpm \
 
 #Installation des modules PHP
 RUN apt-get update && apt-get -y install \
+	php5-xdebug \
 	php5-snmp \
 	php5-gd \
 	php5-mysql \
