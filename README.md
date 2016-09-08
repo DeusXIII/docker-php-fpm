@@ -1,5 +1,6 @@
-# web-php
-Image Docker de PHP7-FPM en version Alpine modifée avec quelques extensions
+# docker-php-fpm
+
+Image Docker de PHP7-FPM basée sur Alpine et modifée avec quelques extensions
 
 A venir :
   - extension PHP7 SNMP
